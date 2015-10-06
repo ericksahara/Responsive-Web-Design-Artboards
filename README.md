@@ -40,6 +40,16 @@ Files
 		* iPhone 6+ Landscape -> 2208x1242
 		* iPhone 6+ Portrait -> 1242x2208
 
+* Responsive Design Artboards Grid System.ai
+
+	* Using Grid System (12 columns)
+
+		* Desktop 1200x800
+		* Tablet 768x1024 portrait		
+		* Tablet 768x1024 landscape		
+		* Smartphone 360x640 portrait		
+		* Smartphone 360x640 landscape		
+
 Plays Well with Others
 ------------
 
